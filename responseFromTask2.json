@@ -1,0 +1,190 @@
+{
+    "success": true,
+    "cart": {
+        "city_id": 9,
+        "products": [
+            {
+                "id": 8194,
+                "rp_id": null,
+                "name": "Куриные тефтели с картофельным пюре и сливочно-томатным соусом",
+                "photo": "https:\/\/img.eda1.ru\/im\/menuProduct\/635a3c72e3972_w320.jpeg",
+                "sale_price": null,
+                "available_modifiers": [],
+                "info": {
+                    "proteins_100": "7",
+                    "fats_100": "4",
+                    "carbohydrates_100": "19,3",
+                    "calories_100": "141,2",
+                    "proteins": "17,5",
+                    "fats": "10",
+                    "carbohydrates": "48,3",
+                    "calories": "353",
+                    "weight_value": 250,
+                    "weight": "250 г"
+                },
+                "is_countable": true,
+                "count_step": 1,
+                "flags": [
+                    "hot"
+                ],
+                "is_meta": 1,
+                "quantity": 1,
+                "type_jm": "2",
+                "price": 233,
+                "price_before_discount": null,
+                "discount": 0,
+                "idx": 0,
+                "subprod_debug": {
+                    "ids": [
+                        8194,
+                        11391
+                    ],
+                    "sel": "11391"
+                },
+                "max_quantity": 15
+            }
+        ],
+        "schedule": [],
+        "persons_count": 0,
+        "total_amount": 233,
+        "total_amount_before_discount": 233,
+        "total_amount_clean": 714,
+        "minimum_amount": 500,
+        "additional_products": [
+            {
+                "id": "5",
+                "title": "Вилка",
+                "free_count": 2,
+                "photo": null,
+                "add_price": 3,
+                "products": [
+                    {
+                        "id": 4817,
+                        "title": "Вилка",
+                        "full_stop": false,
+                        "selected_count": 0,
+                        "total_count": 0
+                    },
+                    {
+                        "id": 4816,
+                        "title": "Нож",
+                        "full_stop": false,
+                        "selected_count": 0,
+                        "total_count": 0
+                    },
+                    {
+                        "id": 4480,
+                        "title": "Соль",
+                        "full_stop": false,
+                        "selected_count": 0,
+                        "total_count": 0
+                    },
+                    {
+                        "id": 4481,
+                        "title": "Перец",
+                        "full_stop": false,
+                        "selected_count": 0,
+                        "total_count": 0
+                    }
+                ]
+            }
+        ],
+        "additional_products_cost": 0,
+        "current_order_code": false,
+        "delivery_department_id": 0,
+        "cart_department_id": 133,
+        "compensations": null,
+        "api_user_class": null,
+        "delivery_type": "delivery",
+        "delivery_address": {
+            "city": "Берёзовский",
+            "street": "Восточная улица",
+            "house": "9",
+            "building": null,
+            "flat": "",
+            "entrance": null,
+            "floor": null,
+            "comment": null,
+            "lat": 56.9082126,
+            "lon": 60.8086033,
+            "domofon": null
+        },
+        "closest_departments": [
+            {
+                "id": 133,
+                "active": true
+            },
+            {
+                "id": 126,
+                "active": true
+            },
+            {
+                "id": 118,
+                "active": true
+            }
+        ],
+        "discount_percent": 0,
+        "discount_amount": 0,
+        "available_gifts": [],
+        "promocodes": [],
+        "promoevents_applied": [],
+        "promoevents_cancelled": [],
+        "promoevents_available": [],
+        "selected_gifts": [],
+        "prepare_time": "2023-09-19T23:47:00+05:00",
+        "delivery_time": "2023-09-20T00:40:00+05:00",
+        "minimum_delivery_time": "2023-09-20T00:40:00+05:00",
+        "deliver_in": 4522,
+        "payment_info": {
+            "type": ""
+        },
+        "max_bonus_points": 0,
+        "bonuses_gained": 0,
+        "bonus_card_holder_name": "",
+        "available_payment_types": [
+            {
+                "id": "online",
+                "name": "Картой online",
+                "types": [
+                    {
+                        "type": "online",
+                        "merchant": "p667409723670-api",
+                        "token": "p667409723670-api",
+                        "gateway": "sber",
+                        "name": "Картой online"
+                    },
+                    {
+                        "type": "sber",
+                        "merchant": null,
+                        "token": null,
+                        "gateway": null,
+                        "name": "SberPay"
+                    }
+                ]
+            },
+            {
+                "id": "qr",
+                "name": "СБП"
+            }
+        ],
+        "yandex_map": true,
+        "ingredients_changes": null,
+        "can_be_sent": false,
+        "is_external_delivery": true,
+        "is_door_to_door": true,
+        "external_delivery_key": "yandex",
+        "delivery_price": 481,
+        "free_delivery_amount": 1200,
+        "map_area_id": "9",
+        "userinfo": null,
+        "total_nutrition": {
+            "calories": 353,
+            "proteins": 17,
+            "fats": 10,
+            "carbohydrates": 48
+        },
+        "order_flags": {},
+        "certificates": null
+    },
+    "cart_generating_time": 1.333747148513794
+}
